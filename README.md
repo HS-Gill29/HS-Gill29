@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...any open source projects
 - 📫 How to reach me ...harnoorgill29@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
 
 <!---
 HS-Gill29/HS-Gill29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
